@@ -226,7 +226,6 @@ top: 261px;
   border-radius: 4px;
   
   /* Inside auto layout */
-  
   flex: none;
   order: 0;
   flex-grow: 0;
